@@ -1,0 +1,1 @@
+Nesta pastas estão os resumos que criei sobre o conteúdo
