@@ -23,3 +23,4 @@ Comandos:
 
 puts " " [Exibe mensagem ou calculo descrito no terminal]
 
+unless = if not
