@@ -24,3 +24,17 @@ Comandos:
 puts " " [Exibe mensagem ou calculo descrito no terminal]
 
 unless = if not
+
+Métodos:
+    Exemplo:
+        def hello name
+            puts "Ola #{name}"
+        end
+
+        hello "Leonardo"
+        hello "Gabriel"
+
+Gems:
+    Gem é um pacote que oferece funcionalidades a fim de resolver uma necessidade especifica de um programa Ruby.
+    Basicamente uma biblioteca.
+
