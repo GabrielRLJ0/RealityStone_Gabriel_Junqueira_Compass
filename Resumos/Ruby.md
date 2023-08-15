@@ -38,3 +38,10 @@ Gems:
     Gem é um pacote que oferece funcionalidades a fim de resolver uma necessidade especifica de um programa Ruby.
     Basicamente uma biblioteca.
 
+Definições:
+
+Iterações em collections
+
+Each - Percorre uma coleção como o for, mas não sobreescreve os valores
+Map - Cria um array baseado em valores de outro array existente
+Select - Seleção de elementos presentes em uma collection através de uma condição pré definida.

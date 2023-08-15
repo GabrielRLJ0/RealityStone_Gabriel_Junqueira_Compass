@@ -28,11 +28,3 @@ git merge " " [Une a branch atual com a branch especificada]
 git clone " " [Clona o repositorio especificado com http]
 
 git pull [Atualiza o repositorio para a versão mais nova no github]
-
-Definições:
-
-Iterações em collections
-
-Each - Percorre uma coleção como o for, mas não sobreescreve os valores
-Map - Cria um array baseado em valores de outro array existente
-Select - Seleção de elementos presentes em uma collection através de uma condição pré definida.
