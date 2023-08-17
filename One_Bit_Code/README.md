@@ -1,0 +1,1 @@
+Nesta pasta serão colocados todos os programas desenvolvidos em Ruby no curso do one bit code

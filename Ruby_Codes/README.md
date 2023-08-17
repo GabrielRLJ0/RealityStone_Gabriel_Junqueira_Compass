@@ -1,1 +1,0 @@
-Nesta pasta serão colocados todos os programas desenvolvidos em Ruby
