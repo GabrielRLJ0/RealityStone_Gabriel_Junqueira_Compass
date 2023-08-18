@@ -38,6 +38,8 @@ Gems:
     Gem é um pacote que oferece funcionalidades a fim de resolver uma necessidade especifica de um programa Ruby.
     Basicamente uma biblioteca.
 
+    binding.pry começa o debug apartir desta linha de código, necessário a gem 'pry'
+
 Definições:
 
 Iterações em collections
